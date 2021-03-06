@@ -61,6 +61,7 @@ If you are looking for a low-cost option to try out Picroft, we can recommend th
 | Andrea Electronics | C1-1028100-3 | Working | USB Dongle \(Mic array & Speaker 3.5mm\) | Superbeam Array Microphone Bundle SUMA \(`08a8:0016`\) |
 | Blue | Snowball iCE | Working | Microphone |  |
 | Creative | VF0790 | Working | Mic and camera |  |
+| eMeet | M0 | Working | USB mic and speaker |  |
 | Google | AIY v1 | Working | Mic and speaker |  |
 | Jabra | Speak 410 | [Problems reported](https://community.mycroft.ai/t/no-audio-output-on-picroft-with-jabra-410/3415) | Mic and speaker | Premium microphone and speaker combination |
 | Logitech | C270 | Working | Mic and camera |  |
